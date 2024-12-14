@@ -6,8 +6,11 @@ J'utilise les données de StatsBomb pour produire des analyses approfondies de m
 Au cours de cette alternance, j’aimerais mettre en application mes connaissances théoriques sur le terrain, mais aussi approfondir mes compétences pour contribuer activement à l’atteinte de vos objectifs. J’aimerais travailler sur des projets concrets tels que :
 
 • L'analyse avancée de la performance des joueurs : Identifier les points forts et les axes d’amélioration des sportifs, notamment en suivant leurs charges et leur récupération.
+
 • Le développement de modèles prédictifs de performance et de prévention des blessures : Grâce à ma formation en Python et R, je suis motivé pour progresser en modélisation et travailler sur des algorithmes prédictifs permettant d’anticiper les performances et de prévenir les risques de blessures.
+
 • L’évaluation de la concordance entre dispositifs de mesure : Analyser et comparer l’efficacité des différents dispositifs, comme les ceintures de mesure, les GPS et les plateformes de force, pour des analyses plus fiables.
+
 • La création de tableaux de bord pour le suivi des performances : Avec notamment la conception de tableaux de bord automatisés pour un suivi en temps réel.
 
 Je suis disposé à suivre toute formation nécessaire pour être pleinement opérationnel. Sportif, j’aime les défis et le travail d’équipe. Je suis également prêt à me familiariser dès à présent avec vos outils et logiciels afin d’être le plus efficace possible dès mon intégration dans votre équipe.
